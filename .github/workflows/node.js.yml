@@ -45,3 +45,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "anvaperideusto8" 
           heroku_email: "donantonio5314@gmail.com"
+          appdir: "evaluacion"
